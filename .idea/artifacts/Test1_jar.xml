@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Test1:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Test1_jar</output-path>
+    <root id="archive" name="Test1.jar">
+      <element id="module-output" name="gobangclienttest" />
+      <element id="extracted-dir" path="E:/mavenRepo/io/netty/netty-all/4.1.23.Final/netty-all-4.1.23.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-codec/commons-codec/1.2/commons-codec-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/log4j/log4j/1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/org/apache/commons/commons-pool2/2.5.0/commons-pool2-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/mavenRepo/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
